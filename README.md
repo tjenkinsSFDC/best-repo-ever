@@ -1,4 +1,4 @@
-# best-repo-ever3
+# best-repo-ever2
 
 This is to test Git commands
-Testing merge conflicts
+In a new branch hey now
